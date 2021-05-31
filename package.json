@@ -1,0 +1,27 @@
+{
+  "name": "CAPS",
+  "version": "1.0.0",
+  "description": "Wafa'a Ankoush",
+  "main": "index.js",
+  "scripts": {
+    "start": "node caps.js",
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wafaankoush99/CAPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wafaankoush99/CAPS/issues"
+  },
+  "homepage": "https://github.com/wafaankoush99/CAPS#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "jest": "^27.0.3",
+    "uuid": "^8.3.2"
+  }
+}
